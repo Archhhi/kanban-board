@@ -1,0 +1,22 @@
+footer {
+    width: 100%;
+    background-color: #282c34;
+    color: #e6e6e6;
+    text-align: center;
+    font-size: 1em;
+    font-family: sans-serif;
+    margin-top: 40%;
+    bottom: 0;
+    padding: 1% 0;
+    position: relative;
+    z-index: 0;
+}
+
+.contacts {
+    text-align: center;
+    margin-top: 1.5em;
+}
+
+.contacts span {
+    display: block;
+}
